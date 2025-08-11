@@ -1,5 +1,7 @@
 ## Project Description
 
+Link to dashboard layout: [link](https://docs.google.com/drawings/d/1jz0RSrHw8sAykUxC_h7EGXF1ppk9YH2zgyB_nFwM0uk/edit?usp=sharing)
+
 You work for a marketing company, that manages webpage and sale analytics for multiple websites. You’ve been asked to write the following airflow jobs
 
 ### 1) Conversion Events
