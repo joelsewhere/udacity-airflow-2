@@ -1,0 +1,222 @@
+[
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T09:15:23Z",
+      "chat_id": "csc_0001",
+      "customer_id": "cust_1001",
+      "agent_id": "agent_42",
+      "issue_category": "billing",
+      "chat_duration_seconds": 312,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 5
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T10:02:44Z",
+      "chat_id": "csc_0002",
+      "customer_id": "cust_1002",
+      "agent_id": "agent_11",
+      "issue_category": "technical_support",
+      "chat_duration_seconds": 824,
+      "resolution_status": "pending",
+      "customer_satisfaction_score": null
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T10:45:12Z",
+      "chat_id": "csc_0003",
+      "customer_id": "cust_1003",
+      "agent_id": "agent_23",
+      "issue_category": "order_status",
+      "chat_duration_seconds": 215,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 4
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T11:07:53Z",
+      "chat_id": "csc_0004",
+      "customer_id": "cust_1004",
+      "agent_id": "agent_17",
+      "issue_category": "returns",
+      "chat_duration_seconds": 456,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 5
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T11:33:45Z",
+      "chat_id": "csc_0005",
+      "customer_id": "cust_1005",
+      "agent_id": "agent_42",
+      "issue_category": "product_information",
+      "chat_duration_seconds": 132,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 3
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T12:04:09Z",
+      "chat_id": "csc_0006",
+      "customer_id": "cust_1006",
+      "agent_id": "agent_12",
+      "issue_category": "billing",
+      "chat_duration_seconds": 622,
+      "resolution_status": "escalated",
+      "customer_satisfaction_score": null
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T12:36:17Z",
+      "chat_id": "csc_0007",
+      "customer_id": "cust_1007",
+      "agent_id": "agent_19",
+      "issue_category": "technical_support",
+      "chat_duration_seconds": 1043,
+      "resolution_status": "pending",
+      "customer_satisfaction_score": null
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T13:15:21Z",
+      "chat_id": "csc_0008",
+      "customer_id": "cust_1008",
+      "agent_id": "agent_23",
+      "issue_category": "shipping",
+      "chat_duration_seconds": 312,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 4
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T13:47:59Z",
+      "chat_id": "csc_0009",
+      "customer_id": "cust_1009",
+      "agent_id": "agent_35",
+      "issue_category": "order_status",
+      "chat_duration_seconds": 245,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 5
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T14:20:04Z",
+      "chat_id": "csc_0010",
+      "customer_id": "cust_1010",
+      "agent_id": "agent_14",
+      "issue_category": "returns",
+      "chat_duration_seconds": 345,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 4
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T14:55:33Z",
+      "chat_id": "csc_0011",
+      "customer_id": "cust_1011",
+      "agent_id": "agent_12",
+      "issue_category": "billing",
+      "chat_duration_seconds": 566,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 5
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T15:12:18Z",
+      "chat_id": "csc_0012",
+      "customer_id": "cust_1012",
+      "agent_id": "agent_27",
+      "issue_category": "technical_support",
+      "chat_duration_seconds": 823,
+      "resolution_status": "escalated",
+      "customer_satisfaction_score": null
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T15:48:45Z",
+      "chat_id": "csc_0013",
+      "customer_id": "cust_1013",
+      "agent_id": "agent_35",
+      "issue_category": "product_information",
+      "chat_duration_seconds": 245,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 3
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T16:05:11Z",
+      "chat_id": "csc_0014",
+      "customer_id": "cust_1014",
+      "agent_id": "agent_19",
+      "issue_category": "order_status",
+      "chat_duration_seconds": 199,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 4
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T16:34:02Z",
+      "chat_id": "csc_0015",
+      "customer_id": "cust_1015",
+      "agent_id": "agent_42",
+      "issue_category": "returns",
+      "chat_duration_seconds": 367,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 5
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T17:02:57Z",
+      "chat_id": "csc_0016",
+      "customer_id": "cust_1016",
+      "agent_id": "agent_11",
+      "issue_category": "billing",
+      "chat_duration_seconds": 456,
+      "resolution_status": "pending",
+      "customer_satisfaction_score": null
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T17:39:21Z",
+      "chat_id": "csc_0017",
+      "customer_id": "cust_1017",
+      "agent_id": "agent_27",
+      "issue_category": "shipping",
+      "chat_duration_seconds": 289,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 4
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T18:12:30Z",
+      "chat_id": "csc_0018",
+      "customer_id": "cust_1018",
+      "agent_id": "agent_14",
+      "issue_category": "technical_support",
+      "chat_duration_seconds": 912,
+      "resolution_status": "escalated",
+      "customer_satisfaction_score": null
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T18:40:14Z",
+      "chat_id": "csc_0019",
+      "customer_id": "cust_1019",
+      "agent_id": "agent_17",
+      "issue_category": "product_information",
+      "chat_duration_seconds": 145,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 3
+    },
+    {
+      "event_type": "customer_support_chat",
+      "event_time": "2025-08-11T19:05:47Z",
+      "chat_id": "csc_0020",
+      "customer_id": "cust_1020",
+      "agent_id": "agent_23",
+      "issue_category": "shipping",
+      "chat_duration_seconds": 322,
+      "resolution_status": "resolved",
+      "customer_satisfaction_score": 5
+    }
+  ]
